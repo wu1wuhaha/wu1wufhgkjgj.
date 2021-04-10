@@ -9,5 +9,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 .bg-primary{
 	background-color: #85a4d9!important;
-	background-image:url(../asserts/img/always-grey.png);
+    background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
 }
+.text-primary{
+	color: #85a4d9!important;
+}
+a {
+	color: #85a4d9!important;
+}
+
