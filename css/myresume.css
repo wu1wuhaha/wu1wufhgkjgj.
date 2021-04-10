@@ -17,4 +17,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 a {
 	color: #85a4d9;
 }
+body{
+   background-color:#343434;
+}
 
+.button:hover .hover{
+  display:block;
+}
+.hover{
+  display:none;
+  background-color:#ffb2b2;
+}
