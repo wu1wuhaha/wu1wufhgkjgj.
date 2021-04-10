@@ -20,12 +20,11 @@ a {
 .button{
   text-align: left;
   color:#85a4d9;
-  font-size:3em;
 }
 .button:hover .hover{
   display:block;
 }
 .hover{
   display:none;
-  background-color:#ffb2b2;
+  background-color:#abc8eb;
 }
