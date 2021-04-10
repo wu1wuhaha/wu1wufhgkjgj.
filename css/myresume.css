@@ -17,10 +17,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 a {
 	color: #85a4d9;
 }
-body{
-   background-color:#343434;
+.button{
+  text-align: left;
+  color:#85a4d9;
+  font-size:3em;
 }
-
 .button:hover .hover{
   display:block;
 }
