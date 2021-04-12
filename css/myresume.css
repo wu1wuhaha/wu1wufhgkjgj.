@@ -28,3 +28,7 @@ a {
   display:none;
   background-color:#d9e1eb;
 }
+ul>li:hover {
+	background-color: #deb43d;
+}
+
