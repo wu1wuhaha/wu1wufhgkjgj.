@@ -30,6 +30,7 @@ a {
 }
 ul>li:hover {
 	background-color: #bd668d;
+	color: #FFFFFF;
 }
 .jumbotron ul {
    list-style-type: circle;
